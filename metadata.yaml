@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38024'
     url: http://www.gutenberg.org/2009/agents/38024
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36002#Time-in-the-Play-of-Hamlet
 gutenberg_issued: '2011-04-30'
 gutenberg_type: Text
 identifiers:
