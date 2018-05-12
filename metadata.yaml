@@ -1,0 +1,29 @@
+_repo: Time-in-the-Play-of-Hamlet_36002
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vining, Edward Payson
+    alias: Vining, Edward P.
+    birthdate: 1847
+    deathdate: 1920
+    gutenberg_agent_id: '38024'
+    url: http://www.gutenberg.org/2009/agents/38024
+description: ''
+gutenberg_issued: '2011-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616. Hamlet'
+- !lcsh 'Tragedy'
+- !lcc 'PR'
+- !lcsh 'Time in literature'
+title: Time in the Play of Hamlet
+url: http://www.gutenberg.org/ebooks/36002
